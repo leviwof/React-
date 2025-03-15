@@ -1,0 +1,18 @@
+{
+  "name": "react-",
+  "version": "1.0.0",
+  "description": "just react ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
